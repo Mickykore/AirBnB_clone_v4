@@ -157,6 +157,5 @@ No known bugs at this time.
  Mikiyas Kore<https://github.com/Mickykore>
  Beab Geto<https://github.com/for-alx>
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
